@@ -1,2 +1,2 @@
 # spreadsheet-health-audit-checklist
-Checklist for identifying structural risks in operational spreadsheets before they become fragile or unreliable.
+A practical checklist for auditing spreadsheet structure, reliability, and automation opportunities in Excel workflows.
